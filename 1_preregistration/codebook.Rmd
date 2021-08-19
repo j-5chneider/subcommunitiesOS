@@ -1,0 +1,60 @@
+---
+title: "Codebook"
+subtitle: "to Preregistration: Subcommunities in Open Science"
+output:
+  html_document:
+    toc: true
+    toc_depth: 5
+    toc_float: true
+    code_folding: 'hide'
+    self_contained: true
+  pdf_document:
+    toc: yes
+    toc_depth: 4
+    latex_engine: xelatex
+---
+
+Here, we're just setting a few options.
+
+```{r setup}
+knitr::opts_chunk$set(
+  warning = F, # do not show warnings during codebook generation
+  message = F, # do not show messages during codebook generation
+  error = F, # do not interrupt codebook generation in case of errors,
+                # usually better for debugging
+  echo = TRUE  # show R code
+)
+ggplot2::theme_set(ggplot2::theme_bw())
+
+```
+
+Now, we're preparing our toy data for the codebook. These data are artificial and only exist to show the questionnaire.
+
+```{r prepare_codebook}
+library(codebook)
+library(here)
+codebook_data <- rio::import(here("1_preregistration/toy_data.RData"))
+# to import an SPSS file from the same folder uncomment and edit the line below
+# codebook_data <- rio::import("mydata.sav")
+# for Stata
+# codebook_data <- rio::import("mydata.dta")
+# for CSV
+# codebook_data <- rio::import("mydata.csv")
+
+
+
+# If you are not using formr, the codebook package needs to guess which items
+# form a scale. The following line finds item aggregates with names like this:
+# scale = scale_1 + scale_2R + scale_3R
+# identifying these aggregates allows the codebook function to
+# automatically compute reliabilities.
+# However, it will not reverse items automatically.
+# codebook_data <- detect_scales(codebook_data)
+```
+
+
+# Codebook
+
+```{r codebook}
+codebook(codebook_data)
+```
