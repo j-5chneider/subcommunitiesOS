@@ -1,0 +1,296 @@
+osp_prp,osp_pre,osp_met,osp_sof,osp_mat,osp_cod,osp_dat,osp_oer,osp_opr,osp_oap,osp_oso,osp_sco,osp_cit,para,disc,disc_broad
+3,3,4,3,3,4,4,1,1,3,1,2,1,qual,'nat' - Biological Sciences,nat
+3,2,4,4,4,4,4,3,3,4,3,3,3,mixe,'med' - Clinical medicine,med
+3,4,1,2,3,3,2,1,4,2,1,3,2,mixe,'med' - Clinical medicine,med
+3,2,3,2,3,3,4,4,3,4,2,4,4,quan,"'agr' - Agriculture, forestry, and fisheries",agr
+3,3,4,4,3,3,1,1,4,2,3,3,1,quan,'eng' - Medical engineering,eng
+4,2,4,4,4,4,4,4,3,4,2,3,3,quan,'med' - Clinical medicine,med
+4,3,3,4,4,2,4,4,2,4,1,3,4,mixe,'nat' - Computer and Information Science,nat
+4,3,4,4,4,2,2,4,4,3,1,4,4,mixe,'hum' - Other humanities,hum
+2,1,2,1,1,1,1,1,2,1,1,1,1,quan,'med' - Basic medicine,med
+3,4,3,3,2,3,3,3,2,4,2,4,2,quan,'eng' - Medical engineering,eng
+4,3,3,4,4,4,4,4,4,4,3,3,4,quan,'hum' - Other humanities,hum
+3,4,3,2,2,3,2,1,3,4,1,3,2,qual,'soc' - Psychology,soc
+4,4,4,4,3,4,4,2,4,4,4,3,2,quan,'nat' - Other natural sciences,nat
+1,3,1,2,1,3,3,1,3,4,1,4,2,quan,'med' - Clinical medicine,med
+3,4,4,4,3,3,3,3,2,4,3,4,2,mixe,'nat' - Biological Sciences,nat
+3,4,3,3,4,3,4,3,3,4,3,3,3,quan,"'agr' - Agriculture, forestry, and fisheries",agr
+1,1,2,4,2,3,4,2,3,4,4,3,1,mixe,'nat' - Mathematics,nat
+1,1,1,1,1,1,1,1,1,1,1,1,1,quan,'soc' - Psychology,soc
+3,3,3,3,4,4,4,3,3,4,1,4,3,quan,'med' - Health Sciences,med
+3,3,3,4,4,4,4,4,4,4,3,4,4,mixe,'soc' - Social and economic geography,soc
+3,4,3,2,4,3,4,2,3,4,3,3,2,quan,'eng' - Environmental engineering,eng
+4,4,3,3,3,3,4,4,2,4,3,2,3,qual,'nat' - Chemical Sciences,nat
+4,4,4,3,2,4,4,1,2,4,2,4,4,mixe,'agr' - Veterinary science,agr
+2,1,1,4,3,3,3,4,1,3,1,4,2,mixe,'hum' - Languages and literature,hum
+4,4,3,2,2,2,4,3,2,2,2,4,4,qual,'nat' - Earth and related environmental sciences,nat
+1,1,4,4,3,4,4,1,2,3,1,4,1,mixe,"'eng' - Electric., electron., informat. engineering",eng
+2,2,3,4,4,4,4,3,3,4,4,2,3,quan,"'eng' - Electric., electron., informat. engineering",eng
+4,3,2,3,3,2,2,3,3,3,2,2,2,quan,'nat' - Other natural sciences,nat
+2,2,2,4,2,1,3,4,4,3,2,3,1,quan,'eng' - Mechanical engineering,eng
+4,4,4,3,4,4,4,2,2,4,3,3,2,quan,'soc' - Psychology,soc
+4,4,4,2,2,3,1,1,4,2,1,2,2,quan,'eng' - Materials engineering,eng
+2,2,2,1,3,2,2,1,2,4,1,4,4,qual,'soc' - Psychology,soc
+1,1,4,4,3,4,3,2,4,3,4,3,1,mixe,'nat' - Biological Sciences,nat
+4,2,4,4,4,4,4,2,4,4,4,2,2,quan,'hum' - Other humanities,hum
+3,3,2,3,3,2,2,3,2,2,2,3,2,mixe,'med' - Basic medicine,med
+3,2,3,3,2,3,3,4,3,3,3,3,2,qual,"'eng' - Electric., electron., informat. engineering",eng
+4,4,4,3,4,4,1,3,4,4,3,4,4,none,'med' - Health Sciences,med
+1,4,4,4,4,4,3,4,2,4,4,4,1,quan,'soc' - Economics and business,soc
+1,1,2,2,1,1,1,2,1,1,2,3,1,mixe,'soc' - Psychology,soc
+3,2,2,3,4,3,3,4,4,2,3,4,4,mixe,'nat' - Chemical Sciences,nat
+3,3,3,3,3,4,4,2,3,4,4,4,3,mixe,'nat' - Biological Sciences,nat
+2,1,4,4,3,4,4,1,1,4,4,1,1,quan,'nat' - Biological Sciences,nat
+3,1,3,3,4,3,2,4,2,4,1,3,3,mixe,'agr' - Animal and dairy science,agr
+4,2,4,3,4,4,4,4,4,4,3,2,3,mixe,'soc' - Psychology,soc
+4,1,3,1,4,4,4,3,1,1,1,4,3,none,'nat' - Biological Sciences,nat
+2,1,3,3,3,3,3,2,3,4,3,3,1,quan,'med' - Health Sciences,med
+3,3,2,3,3,2,2,4,2,2,3,3,1,mixe,"'agr' - Agriculture, forestry, and fisheries",agr
+4,4,4,3,2,4,2,4,4,4,3,4,4,quan,'med' - Health Sciences,med
+2,3,3,2,3,2,3,2,3,4,1,3,3,qual,'med' - Health Sciences,med
+4,4,3,1,3,3,3,2,4,4,1,4,4,mixe,'med' - Health Sciences,med
+4,4,2,2,2,3,3,2,4,2,2,4,4,mixe,'med' - Basic medicine,med
+4,3,4,3,3,2,2,4,2,4,3,3,4,quan,'nat' - Earth and related environmental sciences,nat
+3,2,3,2,3,2,4,3,3,4,2,2,2,mixe,'nat' - Biological Sciences,nat
+1,2,2,1,3,1,1,1,1,1,1,4,1,mixe,"'eng' - Electric., electron., informat. engineering",eng
+3,2,4,3,4,3,2,3,3,2,4,4,2,quan,"'agr' - Agriculture, forestry, and fisheries",agr
+4,4,4,4,4,4,4,2,4,4,4,4,4,qual,'med' - Health Sciences,med
+3,1,4,3,4,3,4,1,4,4,2,2,1,quan,'med' - Health Sciences,med
+1,4,4,4,4,3,4,1,1,3,1,2,1,quan,'hum' - Languages and literature,hum
+3,1,4,4,4,4,4,4,4,4,2,3,4,mixe,'eng' - Materials engineering,eng
+1,3,4,1,1,1,1,2,2,1,1,4,4,mixe,'hum' - Other humanities,hum
+4,2,2,2,4,3,4,4,3,1,2,4,4,mixe,'soc' - Media and Communications,soc
+2,2,3,2,1,3,3,3,2,4,1,4,4,qual,'soc' - Sociology,soc
+1,2,4,4,4,4,4,4,4,4,4,3,1,quan,'med' - Other medical sciences,med
+4,2,3,3,3,4,4,4,4,4,3,4,4,mixe,"'agr' - Agriculture, forestry, and fisheries",agr
+3,3,1,2,4,1,4,3,2,4,1,4,4,mixe,"'agr' - Agriculture, forestry, and fisheries",agr
+1,1,4,4,3,3,3,1,3,3,2,3,2,mixe,'soc' - Economics and business,soc
+4,3,3,3,4,3,4,3,3,3,1,2,4,mixe,'nat' - Earth and related environmental sciences,nat
+4,4,4,4,4,4,4,4,4,4,4,4,4,quan,'soc' - Psychology,soc
+4,4,4,4,4,3,4,4,4,3,3,4,4,qual,'med' - Health Sciences,med
+3,3,3,4,3,4,2,4,3,3,4,4,4,mixe,'soc' - Social and economic geography,soc
+4,1,4,2,4,1,4,3,4,4,1,3,3,quan,'med' - Basic medicine,med
+3,2,4,4,2,3,3,2,2,2,4,3,2,mixe,'eng' - Medical engineering,eng
+4,3,1,4,4,4,4,4,4,4,2,2,4,qual,'soc' - Social and economic geography,soc
+3,3,4,4,3,4,2,4,3,4,3,4,4,mixe,"'agr' - Agriculture, forestry, and fisheries",agr
+3,1,4,2,3,3,3,3,3,3,2,2,2,qual,'hum' - Languages and literature,hum
+3,3,4,3,2,4,4,4,4,2,1,4,4,quan,"'hum' - Philosophy, ethics and religion",hum
+4,4,4,4,2,4,4,4,4,4,4,4,4,qual,'soc' - Other social Sciences,soc
+2,2,2,3,2,2,1,2,3,2,3,3,3,mixe,"'hum' - Art (arts, history of & performing arts, music)",hum
+3,3,2,3,3,4,3,2,3,2,2,3,2,qual,'hum' - Other humanities,hum
+1,3,1,3,1,1,1,1,2,3,2,2,1,mixe,'eng' - Medical engineering,eng
+3,1,3,1,1,2,2,1,3,1,1,4,4,mixe,'eng' - Mechanical engineering,eng
+3,3,4,3,4,4,4,4,3,3,1,2,2,mixe,'nat' - Chemical Sciences,nat
+2,3,2,3,1,1,2,3,4,1,1,4,3,mixe,'eng' - Civil engineering,eng
+1,3,4,3,3,3,3,1,2,2,1,3,3,none,'soc' - Psychology,soc
+3,2,2,3,3,4,4,4,4,4,3,4,4,mixe,"'agr' - Agriculture, forestry, and fisheries",agr
+2,3,4,4,1,4,4,2,4,4,4,2,1,mixe,'nat' - Biological Sciences,nat
+3,4,4,3,4,4,4,2,3,4,2,2,2,quan,'eng' - Civil engineering,eng
+3,3,4,2,3,4,4,4,4,3,1,2,1,quan,'nat' - Physical Sciences,nat
+2,1,3,4,4,3,3,4,4,4,3,4,2,none,"'hum' - Philosophy, ethics and religion",hum
+1,2,1,2,1,1,1,2,2,1,1,2,2,qual,"'agr' - Agriculture, forestry, and fisheries",agr
+4,4,4,4,4,3,4,4,2,3,2,2,4,quan,'nat' - Earth and related environmental sciences,nat
+4,3,4,3,4,4,4,4,4,4,2,4,3,mixe,"'agr' - Agriculture, forestry, and fisheries",agr
+1,1,3,3,3,2,2,1,1,3,1,3,3,quan,'soc' - Psychology,soc
+3,2,3,2,3,2,4,2,3,3,2,2,2,qual,'nat' - Earth and related environmental sciences,nat
+1,2,4,4,2,3,4,2,2,3,4,4,4,qual,'nat' - Physical Sciences,nat
+4,3,4,4,1,2,2,1,4,4,2,4,1,quan,'med' - Health Sciences,med
+3,2,4,3,3,2,3,3,3,4,4,3,2,mixe,"'agr' - Agriculture, forestry, and fisheries",agr
+4,1,4,1,4,3,4,2,4,2,1,3,2,quan,'nat' - Biological Sciences,nat
+4,1,4,2,3,4,4,4,4,4,1,4,3,mixe,'eng' - Medical engineering,eng
+4,3,3,4,3,4,4,4,3,4,4,3,4,mixe,'med' - Other medical sciences,med
+1,1,3,2,2,2,2,1,1,3,2,1,1,quan,"'agr' - Agriculture, forestry, and fisheries",agr
+4,1,4,3,4,4,3,2,2,3,4,3,2,mixe,'soc' - Psychology,soc
+3,3,3,3,3,3,3,3,2,3,3,3,3,mixe,'med' - Basic medicine,med
+4,4,4,4,4,4,4,4,4,4,4,4,4,mixe,'soc' - Sociology,soc
+2,1,2,2,1,1,1,1,1,1,2,1,1,quan,'nat' - Computer and Information Science,nat
+3,2,4,2,3,3,4,4,4,4,1,4,3,mixe,'med' - Basic medicine,med
+4,4,4,4,4,4,4,3,4,4,2,2,4,qual,'med' - Clinical medicine,med
+3,3,2,2,2,3,2,2,2,2,2,2,3,qual,'nat' - Mathematics,nat
+2,3,4,4,3,3,4,3,2,1,4,3,2,quan,'nat' - Physical Sciences,nat
+3,1,3,3,4,1,4,3,4,4,1,2,1,qual,"'hum' - Philosophy, ethics and religion",hum
+3,3,3,2,2,3,3,3,3,3,2,3,4,mixe,'soc' - Psychology,soc
+3,1,3,2,4,3,1,1,2,3,1,3,3,qual,'soc' - Educational Sciences,soc
+3,2,4,3,3,4,4,2,4,4,1,3,1,quan,'med' - Clinical medicine,med
+4,3,4,3,4,3,3,2,4,4,3,3,3,quan,'nat' - Biological Sciences,nat
+4,3,3,4,3,4,4,3,3,3,3,3,2,mixe,'eng' - Mechanical engineering,eng
+2,1,4,2,1,4,2,1,1,4,1,2,1,quan,'agr' - Other agricultural sciences,agr
+3,2,4,4,4,4,4,3,3,4,1,2,2,qual,'soc' - Psychology,soc
+4,4,4,2,4,3,3,4,3,2,1,3,1,quan,'nat' - Biological Sciences,nat
+3,3,3,2,3,4,3,3,4,4,2,3,4,mixe,'med' - Clinical medicine,med
+2,1,4,3,2,2,2,1,3,4,2,4,1,quan,'nat' - Biological Sciences,nat
+2,2,2,2,3,3,3,2,3,3,1,3,4,mixe,"'agr' - Agriculture, forestry, and fisheries",agr
+3,4,4,3,4,4,4,2,2,2,1,2,2,quan,"'hum' - Philosophy, ethics and religion",hum
+2,2,4,3,4,4,4,1,4,4,4,2,2,quan,'hum' - Other humanities,hum
+2,1,4,1,4,4,4,3,4,4,1,4,4,mixe,'hum' - Other humanities,hum
+2,4,4,3,4,4,4,2,2,3,4,4,2,quan,'soc' - Psychology,soc
+2,2,4,4,4,4,3,4,4,4,4,2,2,quan,'eng' - Other engineering and technologies,eng
+4,3,3,3,2,2,2,3,2,3,1,2,3,mixe,'hum' - Languages and literature,hum
+3,2,3,4,2,1,2,1,3,3,1,1,1,qual,'med' - Health Sciences,med
+2,3,3,2,2,2,3,4,4,4,2,3,3,qual,'soc' - Psychology,soc
+1,1,2,2,2,2,1,2,3,4,1,4,3,qual,"'hum' - Philosophy, ethics and religion",hum
+3,3,4,3,3,3,4,2,4,2,2,3,3,qual,'nat' - Physical Sciences,nat
+4,3,3,3,3,3,3,4,4,4,3,4,4,mixe,'hum' - Other humanities,hum
+2,4,4,3,3,4,3,2,2,3,4,1,3,qual,"'eng' - Electric., electron., informat. engineering",eng
+3,2,3,4,4,4,4,3,4,4,4,4,1,quan,'agr' - Other agricultural sciences,agr
+4,4,2,2,4,2,4,3,4,4,3,2,2,qual,'hum' - History and archeology,hum
+2,1,4,1,4,4,4,2,2,3,1,4,4,qual,"'hum' - Philosophy, ethics and religion",hum
+2,2,3,3,1,2,4,2,2,3,1,3,1,quan,"'agr' - Agriculture, forestry, and fisheries",agr
+3,2,3,2,3,3,4,2,2,2,1,4,3,quan,'eng' - Mechanical engineering,eng
+1,3,2,3,1,3,2,2,1,2,1,4,2,qual,'eng' - Medical engineering,eng
+3,2,4,1,1,1,1,2,1,1,2,4,1,qual,'eng' - Medical engineering,eng
+2,2,4,2,3,3,3,1,4,4,2,1,1,mixe,'soc' - Economics and business,soc
+2,4,2,2,1,3,2,3,2,3,3,2,2,mixe,'hum' - Other humanities,hum
+3,3,4,2,2,4,2,2,4,3,1,3,3,mixe,'nat' - Biological Sciences,nat
+3,4,4,2,4,3,4,2,4,4,4,4,4,quan,'med' - Other medical sciences,med
+3,1,4,3,2,1,4,1,2,2,1,3,1,none,'eng' - Industrial Biotechnology,eng
+1,2,3,1,4,3,3,1,4,2,1,2,2,none,'hum' - History and archeology,hum
+1,4,1,2,2,4,3,3,4,4,2,2,2,mixe,'nat' - Earth and related environmental sciences,nat
+3,2,3,1,4,2,3,3,4,3,3,3,4,mixe,"'eng' - Electric., electron., informat. engineering",eng
+3,1,3,2,1,2,3,1,1,4,1,3,1,qual,'hum' - History and archeology,hum
+4,2,4,4,4,3,4,4,2,4,4,4,4,mixe,"'agr' - Agriculture, forestry, and fisheries",agr
+4,2,4,4,4,4,4,4,4,4,4,4,4,qual,'hum' - Other humanities,hum
+4,2,3,1,3,2,3,1,4,4,3,1,1,mixe,'nat' - Biological Sciences,nat
+1,2,2,3,1,2,1,2,1,2,3,2,1,quan,'eng' - Mechanical engineering,eng
+2,1,2,1,4,1,2,1,2,4,1,4,3,mixe,"'hum' - Art (arts, history of & performing arts, music)",hum
+1,1,4,2,3,3,1,2,4,3,1,1,1,quan,'eng' - Mechanical engineering,eng
+4,1,3,4,4,4,3,4,4,1,4,4,2,quan,'eng' - Medical engineering,eng
+1,1,1,1,1,1,1,1,2,3,1,4,1,mixe,'nat' - Other natural sciences,nat
+4,1,4,4,4,4,4,4,4,4,4,4,1,mixe,'eng' - Materials engineering,eng
+1,4,3,1,1,3,1,1,1,1,1,3,1,mixe,"'eng' - Electric., electron., informat. engineering",eng
+3,2,3,3,3,3,3,1,2,2,2,2,2,mixe,'nat' - Biological Sciences,nat
+4,1,4,4,3,1,4,2,3,1,1,2,3,quan,'med' - Clinical medicine,med
+4,4,4,4,4,4,4,4,4,1,4,3,1,mixe,'soc' - Sociology,soc
+4,4,4,3,4,4,4,4,4,3,2,3,4,mixe,"'hum' - Philosophy, ethics and religion",hum
+1,1,4,4,4,4,4,1,4,4,4,3,1,quan,'nat' - Biological Sciences,nat
+3,4,4,4,4,4,4,1,1,3,4,2,1,quan,'hum' - Languages and literature,hum
+2,2,3,2,4,4,4,2,2,4,4,4,3,mixe,"'eng' - Electric., electron., informat. engineering",eng
+4,3,4,4,4,4,4,3,2,3,4,2,1,quan,'med' - Health biotechnology,med
+2,3,3,3,3,3,4,2,2,4,3,2,3,mixe,'nat' - Earth and related environmental sciences,nat
+4,2,3,4,3,3,4,2,4,2,2,4,3,mixe,'eng' - Chemical engineering,eng
+1,2,4,4,3,4,3,3,3,2,1,4,4,qual,'nat' - Earth and related environmental sciences,nat
+3,4,4,2,2,3,2,2,4,3,2,3,4,qual,'med' - Basic medicine,med
+3,3,3,4,3,3,4,1,4,3,4,4,4,mixe,"'eng' - Electric., electron., informat. engineering",eng
+2,1,3,1,3,3,2,3,3,2,3,3,1,quan,'eng' - Materials engineering,eng
+3,4,4,4,3,4,3,2,1,4,4,3,4,quan,'med' - Health Sciences,med
+3,2,4,3,3,4,4,2,3,4,4,1,1,none,"'eng' - Electric., electron., informat. engineering",eng
+1,4,4,4,4,1,1,1,2,3,1,3,1,mixe,'soc' - Psychology,soc
+4,3,4,4,4,4,4,4,2,3,4,3,4,mixe,'med' - Other medical sciences,med
+2,2,3,2,2,1,3,1,2,2,1,2,1,quan,"'agr' - Agriculture, forestry, and fisheries",agr
+3,2,4,4,3,3,4,2,2,3,3,2,2,qual,'hum' - Other humanities,hum
+3,4,3,2,4,2,4,4,4,3,2,2,4,quan,"'hum' - Philosophy, ethics and religion",hum
+3,1,3,2,4,1,2,1,2,4,1,2,1,quan,'nat' - Biological Sciences,nat
+4,4,4,4,4,4,4,4,4,4,4,4,4,mixe,'soc' - Psychology,soc
+4,3,2,3,3,3,2,3,4,2,3,3,3,mixe,'soc' - Other social Sciences,soc
+3,2,4,3,3,4,4,4,4,4,4,4,4,none,'hum' - History and archeology,hum
+3,1,1,1,2,1,2,1,1,2,1,2,3,none,'hum' - Languages and literature,hum
+4,4,4,3,3,4,3,4,2,4,1,4,4,quan,'med' - Basic medicine,med
+4,4,4,4,4,4,2,2,4,4,2,4,3,quan,'med' - Clinical medicine,med
+4,3,4,4,3,3,4,4,4,2,3,1,4,mixe,'hum' - Other humanities,hum
+3,3,4,4,1,2,4,1,3,4,2,4,1,quan,'nat' - Biological Sciences,nat
+2,3,3,3,3,3,2,3,4,4,2,4,4,qual,'hum' - Other humanities,hum
+1,3,4,1,3,2,4,2,1,3,3,3,2,quan,'nat' - Biological Sciences,nat
+4,1,3,4,3,3,2,2,3,1,1,2,1,qual,"'agr' - Agriculture, forestry, and fisheries",agr
+1,1,3,2,1,1,2,1,2,3,1,4,1,mixe,'eng' - Medical engineering,eng
+4,3,3,3,4,3,3,4,4,3,3,2,2,qual,'agr' - Animal and dairy science,agr
+2,4,3,3,3,2,1,2,3,3,3,3,4,quan,"'eng' - Electric., electron., informat. engineering",eng
+3,2,4,3,3,2,2,2,3,3,1,1,3,quan,"'agr' - Agriculture, forestry, and fisheries",agr
+2,3,4,4,3,4,3,3,3,3,4,3,2,quan,'soc' - Psychology,soc
+1,4,3,1,4,2,3,3,3,4,4,3,4,quan,"'agr' - Agriculture, forestry, and fisheries",agr
+4,4,2,3,2,2,4,1,4,4,2,4,4,mixe,'med' - Clinical medicine,med
+3,1,1,3,3,3,3,2,1,2,4,3,2,mixe,'nat' - Computer and Information Science,nat
+3,4,4,4,4,4,4,3,4,4,1,3,4,quan,'soc' - Psychology,soc
+4,4,4,3,4,3,3,4,4,4,4,4,4,mixe,'nat' - Computer and Information Science,nat
+4,4,3,4,4,4,4,2,4,4,3,4,2,mixe,"'agr' - Agriculture, forestry, and fisheries",agr
+4,4,4,3,4,4,4,3,4,4,4,4,4,mixe,'soc' - Psychology,soc
+4,1,3,2,4,3,4,4,1,3,3,4,4,qual,'soc' - Psychology,soc
+3,4,4,2,4,3,4,4,3,3,1,4,2,mixe,'soc' - Sociology,soc
+3,2,3,3,4,3,4,3,3,4,2,4,4,mixe,"'agr' - Agriculture, forestry, and fisheries",agr
+4,1,2,4,4,1,4,1,1,4,4,4,4,mixe,"'agr' - Agriculture, forestry, and fisheries",agr
+4,2,4,1,4,4,4,1,2,4,4,1,2,mixe,'hum' - Other humanities,hum
+3,2,3,4,4,4,3,4,4,4,4,3,2,mixe,'eng' - Nanotechnology,eng
+3,2,1,2,2,2,1,2,1,1,1,2,1,qual,'hum' - Languages and literature,hum
+2,2,3,2,3,1,2,1,1,3,1,3,2,mixe,'med' - Basic medicine,med
+3,3,4,4,4,4,4,4,4,4,4,4,2,mixe,"'eng' - Electric., electron., informat. engineering",eng
+3,3,3,3,3,1,2,3,3,3,1,2,3,mixe,"'hum' - Philosophy, ethics and religion",hum
+4,1,2,2,1,4,2,3,3,3,1,3,1,mixe,'med' - Clinical medicine,med
+1,3,4,4,4,4,4,1,4,3,4,2,4,mixe,'nat' - Computer and Information Science,nat
+3,1,3,3,3,2,1,4,2,2,1,1,3,qual,"'hum' - Philosophy, ethics and religion",hum
+4,4,4,1,4,1,4,2,2,3,1,4,1,qual,'med' - Other medical sciences,med
+3,3,4,4,4,4,4,2,1,1,1,3,3,qual,'med' - Basic medicine,med
+3,4,3,2,3,2,4,4,2,3,1,4,4,qual,'soc' - Political Sciences,soc
+4,2,1,1,4,1,2,3,2,2,1,4,4,none,"'agr' - Agriculture, forestry, and fisheries",agr
+3,2,4,1,3,3,2,3,3,2,1,3,2,qual,'hum' - History and archeology,hum
+4,2,4,2,3,3,4,4,4,4,3,2,2,qual,'hum' - Other humanities,hum
+1,1,4,3,3,4,3,2,4,3,1,2,1,mixe,"'hum' - Philosophy, ethics and religion",hum
+3,4,4,1,3,2,4,2,2,2,3,3,4,quan,"'agr' - Agriculture, forestry, and fisheries",agr
+2,1,2,1,2,2,2,1,1,1,1,2,2,quan,'eng' - Other engineering and technologies,eng
+1,1,4,4,1,2,3,1,4,4,1,1,1,mixe,"'eng' - Electric., electron., informat. engineering",eng
+3,2,4,4,4,4,4,3,4,4,4,3,3,mixe,"'eng' - Electric., electron., informat. engineering",eng
+2,1,1,1,2,3,2,3,1,4,1,2,1,none,'nat' - Physical Sciences,nat
+2,1,3,1,2,2,2,2,2,2,2,3,1,quan,'soc' - Economics and business,soc
+4,4,4,4,4,4,4,4,2,4,4,4,4,mixe,'soc' - Psychology,soc
+1,1,1,1,1,1,1,1,1,1,1,2,2,qual,'soc' - Psychology,soc
+2,3,2,1,1,1,1,1,2,1,2,1,1,quan,'nat' - Biological Sciences,nat
+3,3,4,3,3,3,3,3,4,3,1,4,4,mixe,"'agr' - Agriculture, forestry, and fisheries",agr
+1,2,4,2,3,2,3,2,3,3,2,4,1,quan,'soc' - Educational Sciences,soc
+4,4,4,4,4,4,4,4,4,4,4,4,4,mixe,'eng' - Medical engineering,eng
+3,3,4,3,3,2,4,4,4,4,4,2,3,quan,'soc' - Sociology,soc
+2,4,3,3,3,3,4,3,4,4,1,3,1,mixe,'med' - Other medical sciences,med
+1,1,4,2,2,3,4,1,2,4,1,4,3,mixe,'hum' - Other humanities,hum
+3,3,4,3,3,2,3,4,3,4,3,4,4,quan,'med' - Health biotechnology,med
+2,4,4,3,3,3,4,1,3,3,2,3,1,quan,"'hum' - Philosophy, ethics and religion",hum
+3,1,2,3,3,1,2,1,3,4,2,2,3,quan,'eng' - Medical engineering,eng
+3,3,2,4,1,3,3,2,1,3,4,1,1,mixe,'nat' - Computer and Information Science,nat
+4,4,2,4,4,2,4,2,4,2,3,3,1,quan,'med' - Basic medicine,med
+4,1,3,4,4,4,4,4,2,4,1,2,1,qual,'med' - Other medical sciences,med
+3,1,4,2,4,3,2,2,2,2,1,3,1,qual,'nat' - Chemical Sciences,nat
+3,1,3,2,4,2,3,3,3,3,2,4,3,qual,'agr' - Other agricultural sciences,agr
+4,4,2,4,4,2,4,3,4,3,3,3,1,qual,'eng' - Materials engineering,eng
+3,3,3,3,3,2,3,3,3,4,3,3,3,qual,'nat' - Earth and related environmental sciences,nat
+1,3,3,3,3,2,3,3,2,3,1,4,2,quan,'eng' - Civil engineering,eng
+3,2,3,2,3,3,3,2,2,3,1,3,3,qual,"'hum' - Art (arts, history of & performing arts, music)",hum
+3,1,3,1,1,3,3,2,4,3,1,3,2,quan,'nat' - Biological Sciences,nat
+3,2,4,4,4,3,3,1,3,4,4,2,2,quan,'soc' - Psychology,soc
+1,1,1,1,1,1,1,1,1,1,1,1,1,quan,"'agr' - Agriculture, forestry, and fisheries",agr
+2,4,4,3,4,2,2,1,2,4,3,3,1,qual,"'agr' - Agriculture, forestry, and fisheries",agr
+3,3,2,3,3,2,3,3,3,3,1,3,1,mixe,"'agr' - Agriculture, forestry, and fisheries",agr
+3,3,3,2,4,3,3,3,2,3,2,3,2,quan,'med' - Basic medicine,med
+3,2,2,2,3,3,3,4,3,2,2,4,4,quan,'hum' - Other humanities,hum
+3,1,3,3,3,3,3,3,3,1,2,4,4,quan,'agr' - Other agricultural sciences,agr
+2,3,3,3,1,1,3,3,4,3,1,4,2,mixe,"'agr' - Agriculture, forestry, and fisheries",agr
+3,3,4,4,3,3,2,2,3,4,2,3,2,quan,'med' - Health Sciences,med
+1,3,1,4,2,1,1,2,3,1,1,1,2,qual,'med' - Health Sciences,med
+3,2,2,2,3,2,2,3,3,3,2,3,4,mixe,'soc' - Media and Communications,soc
+4,4,2,2,1,4,1,3,4,1,4,3,2,qual,'soc' - Sociology,soc
+3,4,3,2,3,3,3,2,2,4,1,4,1,quan,'soc' - Psychology,soc
+3,2,2,2,1,2,2,1,3,1,1,3,3,mixe,"'agr' - Agriculture, forestry, and fisheries",agr
+3,3,3,2,3,3,2,3,3,2,2,2,2,quan,"'agr' - Agriculture, forestry, and fisheries",agr
+4,2,4,2,3,4,4,3,3,4,1,3,2,quan,'eng' - Chemical engineering,eng
+4,2,4,4,4,4,4,2,3,4,1,4,2,mixe,'hum' - Languages and literature,hum
+4,1,1,1,1,1,1,1,1,1,2,3,1,quan,'soc' - Psychology,soc
+4,3,4,3,4,3,3,4,4,3,2,4,3,mixe,"'agr' - Agriculture, forestry, and fisheries",agr
+2,3,3,3,3,3,3,3,3,3,3,3,4,qual,'med' - Clinical medicine,med
+3,3,4,3,4,4,4,1,4,4,4,2,1,mixe,'nat' - Mathematics,nat
+4,3,4,1,4,2,3,1,3,2,1,2,3,mixe,'med' - Health Sciences,med
+4,1,4,3,2,4,4,1,1,2,2,2,1,mixe,'agr' - Other agricultural sciences,agr
+4,4,4,3,3,4,3,3,4,4,3,4,4,mixe,'soc' - Psychology,soc
+3,4,4,3,4,4,3,2,3,4,2,3,1,quan,'hum' - Other humanities,hum
+2,3,4,4,4,4,4,4,4,4,4,3,4,quan,'soc' - Psychology,soc
+2,3,2,4,3,2,4,1,3,3,2,3,3,mixe,'med' - Health Sciences,med
+4,2,4,3,4,2,4,4,4,4,3,4,4,none,'hum' - Other humanities,hum
+2,2,4,2,2,3,2,1,1,4,1,3,1,mixe,'nat' - Biological Sciences,nat
+2,2,2,2,2,2,2,2,3,3,1,1,2,mixe,"'hum' - Art (arts, history of & performing arts, music)",hum
+2,4,4,2,4,1,4,1,3,1,1,3,2,mixe,'soc' - Political Sciences,soc
+2,3,3,2,3,2,4,2,4,4,3,2,3,quan,'eng' - Environmental engineering,eng
+4,2,3,2,3,2,2,3,2,1,4,1,3,qual,"'agr' - Agriculture, forestry, and fisheries",agr
+4,4,2,2,4,2,2,4,4,3,4,4,2,mixe,"'eng' - Electric., electron., informat. engineering",eng
+2,1,3,4,3,4,3,1,3,3,4,2,1,quan,"'hum' - Philosophy, ethics and religion",hum
+4,3,4,4,4,4,3,3,3,4,3,4,4,quan,"'eng' - Electric., electron., informat. engineering",eng
+1,4,4,1,3,3,4,2,4,4,1,2,1,mixe,'med' - Health Sciences,med
+3,1,4,4,4,4,4,4,4,4,2,2,2,quan,"'agr' - Agriculture, forestry, and fisheries",agr
+4,2,4,4,4,4,3,3,3,3,4,4,3,quan,'soc' - Economics and business,soc
+2,1,4,4,4,1,3,3,1,1,1,4,2,qual,'hum' - History and archeology,hum
+2,3,4,4,2,4,3,2,2,3,4,3,1,quan,'eng' - Environmental engineering,eng
+4,1,4,2,3,4,3,2,3,4,3,4,2,mixe,'soc' - Political Sciences,soc
+3,1,4,2,3,3,2,4,2,3,4,3,2,quan,'soc' - Economics and business,soc
