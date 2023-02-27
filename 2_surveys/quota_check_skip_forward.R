@@ -6,7 +6,7 @@ library(formr)
 library(dplyr)
 library(stringr)
 
-formr_connect(keyring = "formr_juergen")
+formr_connect(keyring = "juergen")
 
 # extract the session names of peepz that successfully ended the survey
 success <- formr_raw_results(survey_name = 'osc') %>%
@@ -88,7 +88,7 @@ library(formr)
 library(dplyr)
 library(stringr)
 
-formr_connect(keyring = "formr_juergen")
+formr_connect(keyring = "juergen")
 
 # extract the session names of peepz that successfully ended the survey
 osc_0 <- formr_raw_results(survey_name = 'osc_0') %>%
@@ -127,8 +127,8 @@ library(stringr)
 
 # Login using your client ID and client Secret to get an access token
 login <- list( # define login credentials
-  client_id = "5ca370217d915874f52cf1a2af4325c7",
-  client_secret = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9IjVjYTM3MDIxN2Q5MTU4NzRm",
+  client_id = "",
+  client_secret = "",
   grant_type = "client_credentials"
 )
 
@@ -201,7 +201,7 @@ library(stringr)
 #   dplyr::filter(!(session %in% testruns)) %>% #filter out sessions that are from testruns
 #   dplyr::select(-quality_check, -finished)
 
-formr_connect(keyring = "formr_juergen")
+formr_connect(keyring = "juergen")
 
 osc_survey_osc_0 <- formr_results(survey_name = 'osc_0')%>%
   dplyr::select(session, disc, prolific_pid, created) %>%
