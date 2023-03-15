@@ -1,0 +1,25 @@
+install.packages(
+ c( 
+  "codebook",
+  "dplyr",
+  "emmeans",
+  "formr",
+  "generics",
+  "ggpubr",
+  "ggridges",
+  "here",
+  "hrbrthemes",
+  "kableExtra",
+  "knitr",
+  "naniar",
+  "nnet",
+  "poLCA",
+  "psych",
+  "rio",
+  "rmarkdown",
+  "stargazer",
+  "tidyLPA",
+  "tidyverse",
+  "viridis",
+  "xfun")
+)
