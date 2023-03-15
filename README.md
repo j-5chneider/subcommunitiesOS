@@ -22,46 +22,50 @@ This is the repo for a research project on different profiles in the applicabili
 ## Setup
 
 ### Software
-$platform
-[1] "x86_64-w64-mingw32"
-$arch
-[1] "x86_64"
-$os
-[1] "mingw32"
-$crt
-[1] "ucrt"
-$system
-[1] "x86_64, mingw32"
-$status
-[1] ""
-$major
-[1] "4"
-$minor
-[1] "2.2"
-$year
-[1] "2022"
-$month
-[1] "10"
-$day
-[1] "31"
-$`svn rev`
-[1] "83211"
-$language
-[1] "R"
-$version.string
-[1] "R version 4.2.2 (2022-10-31 ucrt)"
-$nickname
-[1] "Innocent and Trusting"
+```
+$platform  
+[1] "x86_64-w64-mingw32"  
+$arch  
+[1] "x86_64"  
+$os  
+[1] "mingw32"  
+$crt  
+[1] "ucrt"  
+$system  
+[1] "x86_64, mingw32"  
+$status  
+[1] ""  
+$major  
+[1] "4"  
+$minor  
+[1] "2.2"  
+$year  
+[1] "2022"  
+$month  
+[1] "10"  
+$day  
+[1] "31"  
+$`svn rev`  
+[1] "83211"  
+$language  
+[1] "R"  
+$version.string  
+[1] "R version 4.2.2 (2022-10-31 ucrt)"  
+$nickname  
+[1] "Innocent and Trusting"  
+```
 
 #### R Packages
-ggridges      ggpubr   stargazer      naniar        here        xfun 
-"0.5.4"     "0.6.0"     "5.2.3"     "1.0.0"     "1.0.1"      "0.37" 
-emmeans    generics       psych  kableExtra        nnet     tidyLPA 
-"1.8.2"     "0.1.3"     "2.2.9"     "1.3.4"    "7.3-18"     "1.1.0" 
-viridis viridisLite     forcats     stringr       dplyr       purrr 
-"0.6.2"     "0.4.1"     "1.0.0"     "1.5.0"     "1.1.0"     "1.0.1" 
-readr       tidyr      tibble     ggplot2   tidyverse 
-"2.1.3"     "1.3.0"     "3.1.8"     "3.4.1"     "1.3.2"
+```
+ggridges      ggpubr   stargazer    naniar      here          xfun   
+"0.5.4"     "0.6.0"     "5.2.3"     "1.0.0"     "1.0.1"      "0.37"   
+emmeans    generics     psych     kableExtra    nnet       tidyLPA   
+"1.8.2"     "0.1.3"     "2.2.9"     "1.3.4"    "7.3-18"     "1.1.0"   
+viridis   viridisLite   forcats     stringr     dplyr       purrr   
+"0.6.2"     "0.4.1"     "1.0.0"     "1.5.0"     "1.1.0"     "1.0.1"   
+readr       tidyr      tibble     ggplot2   tidyverse   
+"2.1.3"     "1.3.0"    "3.1.8"    "3.4.1"   "1.3.2"  
+```
 
 ### Operating System
 Microsoft Windows 10 Pro  
