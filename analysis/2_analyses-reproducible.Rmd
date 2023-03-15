@@ -473,7 +473,9 @@ pwpm(fit_predict_class4_em)
 
 ### Table with all 4 models
 
-```{r, results='asis'}
+Due to a bug in the stargazer package this code will not be evaluated.
+
+```{r, results='asis', eval=FALSE}
 stargazer(fit_predict_class1,
           fit_predict_class2,
           fit_predict_class3,
