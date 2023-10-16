@@ -3,7 +3,6 @@ install.packages(
   "codebook",
   "dplyr",
   "emmeans",
-  "formr",
   "generics",
   "ggpubr",
   "ggridges",
@@ -21,5 +20,8 @@ install.packages(
   "tidyLPA",
   "tidyverse",
   "viridis",
-  "xfun")
+  "xfun",
+  "devtools")
 )
+
+devtools::install_github("rubenarslan/formr")
